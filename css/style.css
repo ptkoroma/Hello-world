@@ -769,7 +769,7 @@ h3.section-heading::before {
 }
 .home-page-slider-header .property_info_header {
 	width: 569px;
-    min-height: 172px;
+    min-height: 285px;
     float: left;
     background: rgba(49, 162, 225, 0.83);
     clear: both;
